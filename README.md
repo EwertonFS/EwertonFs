@@ -1,4 +1,5 @@
 ### Olá eu sou Ewerton Francis Santos
+
 - 🔭 Desenvolvedor Front End.
 - 🔭 Atualmente estou focado no estudo do Back End.
 - 🌱 Em processo de capacitação para ser full Stack.
@@ -14,5 +15,8 @@
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+ <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+ <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ 
 </div>
