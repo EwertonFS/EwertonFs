@@ -1,6 +1,6 @@
 ### Olá eu sou Ewerton Francis Santos
-
-- 🔭 Atualmente estou focado no estudo do Front End.
+- 🔭 Desenvolvedor Front End.
+- 🔭 Atualmente estou focado no estudo do Back End.
 - 🌱 Em processo de capacitação para ser full Stack.
 - 😄 Pronouns:Ele/dele.
 
