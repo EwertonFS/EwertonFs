@@ -20,3 +20,6 @@
  <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  
 </div>
+  <div>
+   <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
