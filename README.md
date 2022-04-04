@@ -21,5 +21,5 @@
  
 </div>
   <div>
-   <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img align="center" alt="Ewerton.html" height="40"    whidth="40" margin-top=15 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img align="center" alt="Ewerton.html" height="40"    whidth="40" margin-top= "5" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
