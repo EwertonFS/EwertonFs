@@ -21,6 +21,6 @@
  
 </div>
   <div>
-   <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img  display: "inline-block" align="center" alt="Ewerton.html" height="40" whidth="40"        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img  whidth="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
- <a href = "https://mail.google.com/mail/u/1/#inbox"><img display: "inline-block" align="center" alt="Ewerton.html" height="40" whidth="40"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://mail.google.com/mail/u/1/#inbox"><img whidth="40"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
