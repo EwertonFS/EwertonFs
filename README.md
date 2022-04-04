@@ -18,5 +18,5 @@
 <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
  <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
  <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- 
+< https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
 </div>
