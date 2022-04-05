@@ -1,4 +1,4 @@
-<img src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
+<img align="center"  src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
 
 ### Olá eu sou Ewerton Francis Santos
 
