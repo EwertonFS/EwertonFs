@@ -6,7 +6,7 @@
 - 🌱 Em processo de capacitação para ser full Stack.
 - 😄 Pronouns:Ele/dele.
 
- <img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
+ <img height="300" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
 
 </div>
 <div align="center">
