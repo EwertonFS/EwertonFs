@@ -1,6 +1,6 @@
 <div  align="center" height="400">
  <img src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
-</div>
+
 
 ### Olá eu sou Ewerton Francis Santos
 
@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou focado no estudo do Back End.
 - 🌱 Em processo de capacitação para ser full Stack.
 - 😄 Pronouns:Ele/dele.
-
+</div>
 <div align="center">
   <a href="https://github.com/EwertonFs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonFs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
