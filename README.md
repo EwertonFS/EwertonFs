@@ -1,13 +1,13 @@
 <div  align="center" >
- <img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
-
-
 ### Olá eu sou Ewerton Francis Santos
 
 - 🔭 Desenvolvedor Front End.
 - 🔭 Atualmente estou focado no estudo do Back End.
 - 🌱 Em processo de capacitação para ser full Stack.
 - 😄 Pronouns:Ele/dele.
+
+ <img height="350" src=https://media.giphy.com/media/C9xz2ZeHr5rqiLL8y4/giphy.gif>
+
 </div>
 <div align="center">
   <a href="https://github.com/EwertonFs">
