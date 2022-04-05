@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif">
+
 ### Olá eu sou Ewerton Francis Santos
 
 - 🔭 Desenvolvedor Front End.
