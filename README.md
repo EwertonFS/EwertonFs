@@ -4,14 +4,15 @@
 Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for software lies with dreaming up ideas and making them assist people in their daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
 <br><br>
 
- <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
-
-</div>
 <div align="center">
   <a href="https://github.com/EwertonFs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonFs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshadz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EwertonFs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshadz&layout=compact&langs_count=7&theme=dark"/>
+ </a>
 </div>
+<br><br>
+ <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
+ 
 <div style="display: inline_block" aling="center"><br>
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
