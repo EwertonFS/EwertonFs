@@ -1,7 +1,7 @@
 ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-Hi, I'm Thaís Sombra, a passionate Full Stack web developer. My passion for software lies with dreaming up ideas and making them assist people in their daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
+Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for software lies with dreaming up ideas and making them assist people in their daily routine. I take great care in the experience, architecture, and code quality of the things I build. <br><br>
 <br><br>
 
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
