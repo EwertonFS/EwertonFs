@@ -20,7 +20,7 @@ Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for s
 - 🤔 I’m looking for help with tests!
 - 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
 - 💬 Ask me about anything, I am happy to help
-- 📝 Resume: <a href="https://www.canva.com/design/DAEo8yvmSZ8/p0ckIEleiFXYnuLzP109EA/view?utm_content=DAEo8yvmSZ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> CV - Thaís Backend </a>
+- 📝 Resume: <a href="https://www.canva.com/design/DAE_qANjljk/tXcK9eGRXd7aPdR3TrsRLQ/edit?utm_content=DAE_qANjljk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> CV - Ewerton Developer </a>
  
 <div style="display: inline_block" aling="center"><br>
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
