@@ -13,6 +13,15 @@ Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for s
 <br><br>
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
  
+ **More things:**  
+- 🔭 I’m currently studying Threat Modeling
+- 🌱 I’m currently learning Docker!!
+- 👯 I’m looking to collaborate on node js projects
+- 🤔 I’m looking for help with tests!
+- 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
+- 💬 Ask me about anything, I am happy to help
+- 📝 Resume: <a href="https://www.canva.com/design/DAEo8yvmSZ8/p0ckIEleiFXYnuLzP109EA/view?utm_content=DAEo8yvmSZ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> CV - Thaís Backend </a>
+ 
 <div style="display: inline_block" aling="center"><br>
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -23,6 +32,8 @@ Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for s
  <img align="center" alt="Ewerton.html" height="80" whidth="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  
 </div>
+
+##
   <div style="display: inline_block"><br>
    <a href="https://www.instagram.com/ewertonfrancis/" target="_blank"><img  whidth="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ewerton-francis-santos-a7607b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
