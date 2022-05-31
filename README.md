@@ -14,11 +14,11 @@ Hi, I'm Ewerton Francis, a passionate Full Stack web developer. My passion for s
  <img align="right" alt="GIF" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76110f13036fb576ad8d1342cb18681cd11d0afb14aa&rid=giphy.gif&ct=g" width="500" height="320" />
  
  **More things:**  
-- 🔭 I’m currently studying Threat Modeling
-- 🌱 I’m currently learning Docker!!
-- 👯 I’m looking to collaborate on node js projects
+- 🔭 I am currently studying Back End !!
+- 🌱 I'm currently studying intro to infrastructure!!
+- 👯 I’m looking to collaborate on  projects !!
 - 🤔 I’m looking for help with tests!
-- 💤 Boring fact: I am a chemical engineer with 6 years of experience in process mapping, continuous improvement and customer service
+- 💤 Boring fact:Financial management but I'm much more skilled with the programming world
 - 💬 Ask me about anything, I am happy to help
 - 📝 Resume: <a href="https://www.canva.com/design/DAE_qANjljk/tXcK9eGRXd7aPdR3TrsRLQ/edit?utm_content=DAE_qANjljk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> CV - Ewerton Developer </a>
  
